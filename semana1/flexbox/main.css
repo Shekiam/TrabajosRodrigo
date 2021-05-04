@@ -1,0 +1,39 @@
+/*  */
+
+.padre{
+    border: solid 1px black;
+    height: 500px;
+    display: flex;
+    /*
+    block
+    wrap
+    flex
+    */
+    justify-content: space-around;
+    flex-direction: column;
+    /*
+    row
+    row-reverse
+    column
+    column-reverse
+    */
+    align-items: flex-end;
+}
+
+.hijo{
+    border: solid 1px blue;
+    height: 30%;
+    width: 30%;
+}
+
+.hija{
+    border: solid 1px palevioletred;
+    height: 30%;
+    width: 30%;
+}
+
+.hijo2{
+    border: solid 1px goldenrod;
+    height: 30%;
+    width: 30%;
+}

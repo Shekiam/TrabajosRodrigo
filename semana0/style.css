@@ -1,0 +1,37 @@
+/* //indicamos que la etiqueta h1 tendra un estilo distinto */ 
+h1{
+    color:darkviolet
+}
+
+.subtitulo{
+    font-size: 30px;
+}
+
+#nombre{
+    font-size: 24px;
+    color: green;
+}
+
+#twitter{
+    font-size: 16px;
+    color: cyan;
+    margin: 14px;
+}
+
+#twitch{
+    font-size: 40px;
+    color: rgb(55, 0, 128);
+    margin: 6px;
+}
+
+#lol{
+    font-size: 25px;
+    color: green;
+    margin: 8px;
+}
+
+#netflix{
+    font-size: 28px;
+    color: crimson;
+    margin: 12px;
+}
