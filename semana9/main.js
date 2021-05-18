@@ -66,3 +66,15 @@ var pares = [''];
 for (pares=0; pares<=100; pares=pares +1 *2) {
     console.log(pares)
 }
+
+
+var divisible = 18;
+
+function multiple (divisible){
+    if (divisible/5, divisible/11 == true){
+        console.log("True")
+    }else{
+        console.log("False")
+    }
+    return multiple;
+}
